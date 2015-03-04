@@ -24,7 +24,7 @@
 
 		<property name="url" value="jdbc:mysql://127.0.0.1:3306/flm?Unicode=true&amp;characterEncoding=UTF-8"/>
 		<property name="username" value="root"/>
-		<property name="password" value="root"/>
+		<property name="password" value="kaleozhou"/>
 	</bean>
 	
 	<bean name="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">   
